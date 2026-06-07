@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: mohameds2/my-html-app:1.0
+        image: mohmohameds2/page:latest
         ports:
         - containerPort: 80
